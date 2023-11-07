@@ -6,3 +6,4 @@ bard = Bard(token)
 response = bard.get_answer("weather in Lviv")
 
 print(response['content'])
+print("Hello")
